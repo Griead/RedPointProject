@@ -1,1 +1,8 @@
 # RedPointProject
+
+这个项目 制作了一个红点框架 可以解决处理红点相关逻辑
+
+基本原理：例如有不同的红点链，Main按钮-Bag按钮-Weapon按钮 和Main按钮-Bag按钮-Potion按钮
+每个按钮上挂载红点组件RedPointTool，会自动注册到红点树中，例如Main注册Main、Bag注册Main_Bag、Weapon注册Main_Bag_Weapon
+红点节点树注册存储在ParentLinkDataDict中
+实际数据存储在RedPointSaveDataDict中
