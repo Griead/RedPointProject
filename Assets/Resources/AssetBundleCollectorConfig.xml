@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root Version="v2.0.0">
+  <Common ShowPackageView="True" ShowEditorAlias="False" UniqueBundleName="False" />
+  <Package PackageName="Test" PackageDesc="" AutoAddressable="False" LocationToLower="False" IncludeAssetGUID="False" IgnoreDefaultType="True">
+    <Group GroupActiveRule="EnableGroup" GroupName="Default Group" GroupDesc="" AssetTags="" />
+  </Package>
+</root>
